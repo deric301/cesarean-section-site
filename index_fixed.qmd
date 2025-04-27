@@ -1,0 +1,175 @@
+---
+title: "UNICEF_Report_on_C-Section_Births"
+format: html
+editor: visual
+execute:
+  echo: false
+  warning: false
+---
+
+<hr>
+
+# Global Trends in Cesarean Section Births
+
+```{r}
+library(tidyverse)
+library(sf)
+library(rnaturalearth)
+library(rnaturalearthdata)
+df1 <- read_csv("unicef_indicator_1 (1).csv", show_col_types = FALSE)
+df2 <- read_csv("unicef_indicator_2 (1).csv", show_col_types = FALSE)
+meta <- read_csv("unicef_metadata (1).csv", show_col_types = FALSE)
+combined <- bind_rows(df1, df2)
+
+full_data <- combined %>%
+  left_join(meta, by = c("country", "alpha_3_code"))
+# Filter only C-section data
+csection_data <- full_data %>%
+  filter(indicator == "C-section rate - percentage of deliveries by cesarean section") %>%
+  group_by(country) %>%
+  filter(time_period == max(time_period)) %>%
+  ungroup()
+
+# Load and join with spatial map
+world <- ne_countries(scale = "medium", returnclass = "sf")
+world_data <- world %>%
+  left_join(csection_data, by = c("name" = "country"))
+
+# Plot
+ggplot(world_data) +
+  geom_sf(aes(fill = obs_value)) +
+  scale_fill_viridis_c(option = "C", na.value = "gray90") +
+  labs(title = "C-section Rates by Country (Most Recent Year)", fill = "%") +
+  theme_minimal()
+
+```
+
+<hr>
+
+This is a world map showing how often babies are born by C-section (Cesarean section) in different countries, based on the most recent data available. Each country is colored depending on how high or low their C-section rate is.
+
+Countries that are bright yellow or orange have very high C-section rates — over 60% of births there happen by surgery.
+
+Countries in pink and purple shades have lower rates, around 20% to 40%.
+
+Places that are dark purple or almost blue have very low rates, under 20%.
+
+On the right side, there’s a color bar that acts like a key, showing you how the colors match to percentages.
+
+If you look closely:
+
+South America, especially countries like Brazil, stands out in bright colors — meaning lots of babies are born by C-section there.
+
+Africa mostly shows darker colors — meaning fewer C-sections.
+
+Europe and parts of Asia are a mix, with some countries having moderate to high rates.
+
+Some countries are gray, meaning there’s no available data for them.
+
+In short, this map is like a colorful snapshot showing that C-section births are very common in some places but much rarer in others.
+
+<hr>
+
+```{r}
+top10 <- full_data %>% 
+  filter(indicator == "C-section rate - percentage of deliveries by cesarean section") %>%
+  group_by(country) %>%
+  filter(time_period == max(time_period)) %>%
+  ungroup() %>%
+  arrange(desc(obs_value)) %>%
+  slice_head(n = 10)
+
+# Check that the data passed to ggplot is filtered correctly
+latest_data <- full_data %>%
+  filter(indicator == "C-section rate - percentage of deliveries by cesarean section") %>%
+  filter(time_period == max(time_period))
+
+# Plot the data
+ggplot(latest_data, aes(x = reorder(country, obs_value), y = obs_value)) + 
+  geom_col(fill = "steelblue") + 
+  coord_flip() + 
+  labs(
+    title = "C-section Rate by Country",
+    x = "Country",
+    y = "C-section Rate (%)"
+  ) + 
+  theme_minimal()
+```
+
+<hr>
+
+This is a bar chart that shows how often babies are delivered by C-section (Cesarean section) in three countries: **Yemen**, **Afghanistan**, and **Mozambique**.
+
+-   **Yemen** has the biggest bar (highest number).
+
+-   **Afghanistan** comes next.
+
+-   **Mozambique** has the smallest bar of the three, but it’s still showing a very high number.
+
+    <hr>
+
+```{r}
+yemen_trend <- csection_data %>% filter(country == "Yemen")
+
+ggplot(yemen_trend, aes(x = time_period, y = obs_value)) +
+  geom_line(color = "blue") +
+  geom_point() +
+  labs(title = "C-section Rate Over Time in Yemen", x = "Year", y = "%") +
+  theme_minimal()
+
+```
+
+<hr>
+
+This chart is about **C-section rates in Yemen** over time.
+
+-   The X-axis (bottom) shows the **year** — here it’s only **2023**.
+
+-   The Y-axis (side) shows the **C-section rate in percentage**.
+
+-   There’s just **one small black dot** on the chart, sitting at around **10.8%**.
+
+What this means:
+
+We only have **one data point** for Yemen — from the year 2023.
+
+It tells us that in 2023, **about 10.8% of babies** in Yemen were delivered by C-section.
+
+There's no line or trend because there's no data for earlier years to connect.
+
+<hr>
+
+```{r}
+ggplot(csection_data, aes(x = time_period, y = obs_value)) +
+  geom_point(alpha = 0.4) +
+  geom_smooth(method = "lm", color = "red", se = FALSE) +
+  labs(title = "Global C-section Rate Over Time", x = "Year", y = "%") +
+  theme_minimal()
+```
+
+<hr>
+
+This chart shows how the **global C-section rate** (how often babies are born by surgery) has changed over time, from around **2008 to 2023**.
+
+Every **small black dot** represents the C-section rate for one country in a particular year.
+
+The **red line** shows the overall trend — kind of like the "big picture" of what's happening.
+
+When we look at it:
+
+The black dots are spread out — some countries have low C-section rates, some have really high ones.
+
+The red line is **slightly going down over time**, meaning that **overall**, the average C-section rate across the world might be decreasing a little bit.
+
+However, there are still a lot of countries with high C-section rates scattered through the years.
+
+<hr>
+
+<hr>
+
+**Conclusion:**\
+C-section rates are different all over the world. Some countries have very high rates, while others have very low rates. Overall, around the world, the average C-section rate has stayed mostly the same over the past few years. Good, accurate data is important because sometimes mistakes can happen and make the results look wrong.
+
+In short, C-sections are common in some places, rare in others, and we need good information to really understand the situation.
+
+<hr>

@@ -1,0 +1,552 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,C-section rate - percentage of deliveries by cesarean section,2010,5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Afghanistan,AF,AFG,4,C-section rate - percentage of deliveries by cesarean section,2011,3.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Afghanistan,AF,AFG,4,C-section rate - percentage of deliveries by cesarean section,2015,2.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Afghanistan,AF,AFG,4,C-section rate - percentage of deliveries by cesarean section,2018,6.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Afghanistan,AF,AFG,4,C-section rate - percentage of deliveries by cesarean section,2023,5.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Albania,AL,ALB,8,C-section rate - percentage of deliveries by cesarean section,2002,13.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Albania,AL,ALB,8,C-section rate - percentage of deliveries by cesarean section,2009,18.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Albania,AL,ALB,8,C-section rate - percentage of deliveries by cesarean section,2018,31,Total,Units,%,Reported,Free,End of fieldwork,Total
+Algeria,DZ,DZA,12,C-section rate - percentage of deliveries by cesarean section,2013,16,Total,Units,%,Reported,Free,End of fieldwork,Total
+Algeria,DZ,DZA,12,C-section rate - percentage of deliveries by cesarean section,2019,24.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Angola,AO,AGO,24,C-section rate - percentage of deliveries by cesarean section,2016,3.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Argentina,AR,ARG,32,C-section rate - percentage of deliveries by cesarean section,2006,27.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Argentina,AR,ARG,32,C-section rate - percentage of deliveries by cesarean section,2011,29.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Argentina,AR,ARG,32,C-section rate - percentage of deliveries by cesarean section,2020,46.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Armenia,AM,ARM,51,C-section rate - percentage of deliveries by cesarean section,2000,6.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Armenia,AM,ARM,51,C-section rate - percentage of deliveries by cesarean section,2005,9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Armenia,AM,ARM,51,C-section rate - percentage of deliveries by cesarean section,2007,14,Total,Units,%,Reported,Free,End of fieldwork,Total
+Armenia,AM,ARM,51,C-section rate - percentage of deliveries by cesarean section,2008,15,Total,Units,%,Reported,Free,End of fieldwork,Total
+Armenia,AM,ARM,51,C-section rate - percentage of deliveries by cesarean section,2009,17.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Armenia,AM,ARM,51,C-section rate - percentage of deliveries by cesarean section,2010,12.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Armenia,AM,ARM,51,C-section rate - percentage of deliveries by cesarean section,2015,27.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Armenia,AM,ARM,51,C-section rate - percentage of deliveries by cesarean section,2016,18,Total,Units,%,Reported,Free,End of fieldwork,Total
+Australia,AU,AUS,36,C-section rate - percentage of deliveries by cesarean section,2007,30.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Australia,AU,AUS,36,C-section rate - percentage of deliveries by cesarean section,2008,31.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Austria,AT,AUT,40,C-section rate - percentage of deliveries by cesarean section,2007,24.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Azerbaijan,AZ,AZE,31,C-section rate - percentage of deliveries by cesarean section,2001,2.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Azerbaijan,AZ,AZE,31,C-section rate - percentage of deliveries by cesarean section,2006,4.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Azerbaijan,AZ,AZE,31,C-section rate - percentage of deliveries by cesarean section,2011,20,Total,Units,%,Reported,Free,End of fieldwork,Total
+Azerbaijan,AZ,AZE,31,C-section rate - percentage of deliveries by cesarean section,2013,26,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bangladesh,BD,BGD,50,C-section rate - percentage of deliveries by cesarean section,2000,2.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bangladesh,BD,BGD,50,C-section rate - percentage of deliveries by cesarean section,2004,3.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bangladesh,BD,BGD,50,C-section rate - percentage of deliveries by cesarean section,2007,7.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bangladesh,BD,BGD,50,C-section rate - percentage of deliveries by cesarean section,2010,12.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bangladesh,BD,BGD,50,C-section rate - percentage of deliveries by cesarean section,2011,17.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bangladesh,BD,BGD,50,C-section rate - percentage of deliveries by cesarean section,2013,19.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bangladesh,BD,BGD,50,C-section rate - percentage of deliveries by cesarean section,2014,22.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bangladesh,BD,BGD,50,C-section rate - percentage of deliveries by cesarean section,2018,32.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bangladesh,BD,BGD,50,C-section rate - percentage of deliveries by cesarean section,2019,36,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bangladesh,BD,BGD,50,C-section rate - percentage of deliveries by cesarean section,2022,44.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Barbados,BB,BRB,52,C-section rate - percentage of deliveries by cesarean section,2012,21.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Belarus,BY,BLR,112,C-section rate - percentage of deliveries by cesarean section,2001,16.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Belarus,BY,BLR,112,C-section rate - percentage of deliveries by cesarean section,2009,22.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Belarus,BY,BLR,112,C-section rate - percentage of deliveries by cesarean section,2012,25.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Belarus,BY,BLR,112,C-section rate - percentage of deliveries by cesarean section,2019,31.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Belgium,BE,BEL,56,C-section rate - percentage of deliveries by cesarean section,2007,17.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Belize,BZ,BLZ,84,C-section rate - percentage of deliveries by cesarean section,2011,28.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Belize,BZ,BLZ,84,C-section rate - percentage of deliveries by cesarean section,2016,34.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Benin,BJ,BEN,204,C-section rate - percentage of deliveries by cesarean section,2001,3.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Benin,BJ,BEN,204,C-section rate - percentage of deliveries by cesarean section,2006,3.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Benin,BJ,BEN,204,C-section rate - percentage of deliveries by cesarean section,2012,5.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Benin,BJ,BEN,204,C-section rate - percentage of deliveries by cesarean section,2014,5.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Benin,BJ,BEN,204,C-section rate - percentage of deliveries by cesarean section,2018,5.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Benin,BJ,BEN,204,C-section rate - percentage of deliveries by cesarean section,2022,5.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bhutan,BT,BTN,64,C-section rate - percentage of deliveries by cesarean section,2007,9.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bhutan,BT,BTN,64,C-section rate - percentage of deliveries by cesarean section,2010,12.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,C-section rate - percentage of deliveries by cesarean section,2004,14.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,C-section rate - percentage of deliveries by cesarean section,2008,18.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,C-section rate - percentage of deliveries by cesarean section,2012,26.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,C-section rate - percentage of deliveries by cesarean section,2013,28.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,C-section rate - percentage of deliveries by cesarean section,2014,29.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,C-section rate - percentage of deliveries by cesarean section,2015,33.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,C-section rate - percentage of deliveries by cesarean section,2016,33.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,C-section rate - percentage of deliveries by cesarean section,2017,33.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,C-section rate - percentage of deliveries by cesarean section,2018,33.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,C-section rate - percentage of deliveries by cesarean section,2019,33.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bosnia and Herzegovina,BA,BIH,70,C-section rate - percentage of deliveries by cesarean section,2012,13.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,C-section rate - percentage of deliveries by cesarean section,2000,38,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,C-section rate - percentage of deliveries by cesarean section,2001,38.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,C-section rate - percentage of deliveries by cesarean section,2002,38.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,C-section rate - percentage of deliveries by cesarean section,2003,40.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,C-section rate - percentage of deliveries by cesarean section,2004,41.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,C-section rate - percentage of deliveries by cesarean section,2005,43.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,C-section rate - percentage of deliveries by cesarean section,2006,43.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,C-section rate - percentage of deliveries by cesarean section,2007,46.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,C-section rate - percentage of deliveries by cesarean section,2008,48.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,C-section rate - percentage of deliveries by cesarean section,2009,50.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,C-section rate - percentage of deliveries by cesarean section,2010,52.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,C-section rate - percentage of deliveries by cesarean section,2011,53.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,C-section rate - percentage of deliveries by cesarean section,2012,55.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,C-section rate - percentage of deliveries by cesarean section,2013,56.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,C-section rate - percentage of deliveries by cesarean section,2014,57.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,C-section rate - percentage of deliveries by cesarean section,2015,55.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,C-section rate - percentage of deliveries by cesarean section,2016,55.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,C-section rate - percentage of deliveries by cesarean section,2017,55.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,C-section rate - percentage of deliveries by cesarean section,2018,56.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,C-section rate - percentage of deliveries by cesarean section,2019,56.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bulgaria,BG,BGR,100,C-section rate - percentage of deliveries by cesarean section,2007,28.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bulgaria,BG,BGR,100,C-section rate - percentage of deliveries by cesarean section,2009,32.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bulgaria,BG,BGR,100,C-section rate - percentage of deliveries by cesarean section,2010,31,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bulgaria,BG,BGR,100,C-section rate - percentage of deliveries by cesarean section,2013,35.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bulgaria,BG,BGR,100,C-section rate - percentage of deliveries by cesarean section,2017,45,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bulgaria,BG,BGR,100,C-section rate - percentage of deliveries by cesarean section,2018,46.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Burkina Faso,BF,BFA,854,C-section rate - percentage of deliveries by cesarean section,2003,0.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Burkina Faso,BF,BFA,854,C-section rate - percentage of deliveries by cesarean section,2010,1.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Burkina Faso,BF,BFA,854,C-section rate - percentage of deliveries by cesarean section,2015,3.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Burundi,BI,BDI,108,C-section rate - percentage of deliveries by cesarean section,2010,4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cape Verde,CV,CPV,132,C-section rate - percentage of deliveries by cesarean section,2005,10.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cape Verde,CV,CPV,132,C-section rate - percentage of deliveries by cesarean section,2018,23.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cambodia,KH,KHM,116,C-section rate - percentage of deliveries by cesarean section,2000,0.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cambodia,KH,KHM,116,C-section rate - percentage of deliveries by cesarean section,2006,1.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cambodia,KH,KHM,116,C-section rate - percentage of deliveries by cesarean section,2011,3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cambodia,KH,KHM,116,C-section rate - percentage of deliveries by cesarean section,2014,6.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cambodia,KH,KHM,116,C-section rate - percentage of deliveries by cesarean section,2022,17.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cameroon,CM,CMR,120,C-section rate - percentage of deliveries by cesarean section,2004,2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cameroon,CM,CMR,120,C-section rate - percentage of deliveries by cesarean section,2011,3.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cameroon,CM,CMR,120,C-section rate - percentage of deliveries by cesarean section,2014,2.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cameroon,CM,CMR,120,C-section rate - percentage of deliveries by cesarean section,2018,3.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Canada,CA,CAN,124,C-section rate - percentage of deliveries by cesarean section,2007,26.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Central African Republic,CF,CAF,140,C-section rate - percentage of deliveries by cesarean section,2010,4.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Central African Republic,CF,CAF,140,C-section rate - percentage of deliveries by cesarean section,2019,2.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Chad,TD,TCD,148,C-section rate - percentage of deliveries by cesarean section,2004,0.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Chad,TD,TCD,148,C-section rate - percentage of deliveries by cesarean section,2010,1.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Chad,TD,TCD,148,C-section rate - percentage of deliveries by cesarean section,2015,1.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Chad,TD,TCD,148,C-section rate - percentage of deliveries by cesarean section,2019,1.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Chile,CL,CHL,152,C-section rate - percentage of deliveries by cesarean section,2012,49.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+China,CN,CHN,156,C-section rate - percentage of deliveries by cesarean section,2003,16.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+China,CN,CHN,156,C-section rate - percentage of deliveries by cesarean section,2008,27.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+China,CN,CHN,156,C-section rate - percentage of deliveries by cesarean section,2011,36.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+China,CN,CHN,156,C-section rate - percentage of deliveries by cesarean section,2013,41,Total,Units,%,Reported,Free,End of fieldwork,Total
+Colombia,CO,COL,170,C-section rate - percentage of deliveries by cesarean section,2000,23.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Colombia,CO,COL,170,C-section rate - percentage of deliveries by cesarean section,2005,26.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Colombia,CO,COL,170,C-section rate - percentage of deliveries by cesarean section,2010,34.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Colombia,CO,COL,170,C-section rate - percentage of deliveries by cesarean section,2011,43,Total,Units,%,Reported,Free,End of fieldwork,Total
+Colombia,CO,COL,170,C-section rate - percentage of deliveries by cesarean section,2012,43.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Colombia,CO,COL,170,C-section rate - percentage of deliveries by cesarean section,2013,45.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Colombia,CO,COL,170,C-section rate - percentage of deliveries by cesarean section,2016,43.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Comoros,KM,COM,174,C-section rate - percentage of deliveries by cesarean section,2012,9.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Comoros,KM,COM,174,C-section rate - percentage of deliveries by cesarean section,2022,18.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Congo,CG,COG,178,C-section rate - percentage of deliveries by cesarean section,2005,3.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Congo,CG,COG,178,C-section rate - percentage of deliveries by cesarean section,2012,5.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Congo,CG,COG,178,C-section rate - percentage of deliveries by cesarean section,2015,4.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Costa Rica,CR,CRI,188,C-section rate - percentage of deliveries by cesarean section,2008,20.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Costa Rica,CR,CRI,188,C-section rate - percentage of deliveries by cesarean section,2010,20.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Costa Rica,CR,CRI,188,C-section rate - percentage of deliveries by cesarean section,2011,26.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Costa Rica,CR,CRI,188,C-section rate - percentage of deliveries by cesarean section,2013,21.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Costa Rica,CR,CRI,188,C-section rate - percentage of deliveries by cesarean section,2018,28.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Croatia,HR,HRV,191,C-section rate - percentage of deliveries by cesarean section,2010,19,Total,Units,%,Reported,Free,End of fieldwork,Total
+Croatia,HR,HRV,191,C-section rate - percentage of deliveries by cesarean section,2011,17.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Croatia,HR,HRV,191,C-section rate - percentage of deliveries by cesarean section,2012,18.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Croatia,HR,HRV,191,C-section rate - percentage of deliveries by cesarean section,2013,18.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Croatia,HR,HRV,191,C-section rate - percentage of deliveries by cesarean section,2014,19.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Croatia,HR,HRV,191,C-section rate - percentage of deliveries by cesarean section,2015,20.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Croatia,HR,HRV,191,C-section rate - percentage of deliveries by cesarean section,2018,24.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cuba,CU,CUB,192,C-section rate - percentage of deliveries by cesarean section,2014,40.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cuba,CU,CUB,192,C-section rate - percentage of deliveries by cesarean section,2019,31.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Czech Republic,CZ,CZE,203,C-section rate - percentage of deliveries by cesarean section,2007,19.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ivory Coast,CI,CIV,384,C-section rate - percentage of deliveries by cesarean section,2005,6.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ivory Coast,CI,CIV,384,C-section rate - percentage of deliveries by cesarean section,2012,2.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ivory Coast,CI,CIV,384,C-section rate - percentage of deliveries by cesarean section,2016,3.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,C-section rate - percentage of deliveries by cesarean section,2009,12.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,C-section rate - percentage of deliveries by cesarean section,2017,12.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Congo, the Democratic Republic of the",CD,COD,180,C-section rate - percentage of deliveries by cesarean section,2007,4,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Congo, the Democratic Republic of the",CD,COD,180,C-section rate - percentage of deliveries by cesarean section,2010,7.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Congo, the Democratic Republic of the",CD,COD,180,C-section rate - percentage of deliveries by cesarean section,2014,5.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Congo, the Democratic Republic of the",CD,COD,180,C-section rate - percentage of deliveries by cesarean section,2018,4.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Denmark,DK,DNK,208,C-section rate - percentage of deliveries by cesarean section,2007,21.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Djibouti,DJ,DJI,262,C-section rate - percentage of deliveries by cesarean section,2008,11.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Djibouti,DJ,DJI,262,C-section rate - percentage of deliveries by cesarean section,2012,11,Total,Units,%,Reported,Free,End of fieldwork,Total
+Dominican Republic,DO,DOM,214,C-section rate - percentage of deliveries by cesarean section,2002,31.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Dominican Republic,DO,DOM,214,C-section rate - percentage of deliveries by cesarean section,2007,41.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Dominican Republic,DO,DOM,214,C-section rate - percentage of deliveries by cesarean section,2013,56.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Dominican Republic,DO,DOM,214,C-section rate - percentage of deliveries by cesarean section,2014,58.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Dominican Republic,DO,DOM,214,C-section rate - percentage of deliveries by cesarean section,2019,62.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ecuador,EC,ECU,218,C-section rate - percentage of deliveries by cesarean section,2004,25.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ecuador,EC,ECU,218,C-section rate - percentage of deliveries by cesarean section,2012,41.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ecuador,EC,ECU,218,C-section rate - percentage of deliveries by cesarean section,2014,45.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Egypt,EG,EGY,818,C-section rate - percentage of deliveries by cesarean section,2000,10.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Egypt,EG,EGY,818,C-section rate - percentage of deliveries by cesarean section,2005,19.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Egypt,EG,EGY,818,C-section rate - percentage of deliveries by cesarean section,2008,27.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Egypt,EG,EGY,818,C-section rate - percentage of deliveries by cesarean section,2014,51.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Egypt,EG,EGY,818,C-section rate - percentage of deliveries by cesarean section,2021,72.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+El Salvador,SV,SLV,222,C-section rate - percentage of deliveries by cesarean section,2003,22,Total,Units,%,Reported,Free,End of fieldwork,Total
+El Salvador,SV,SLV,222,C-section rate - percentage of deliveries by cesarean section,2008,24.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+El Salvador,SV,SLV,222,C-section rate - percentage of deliveries by cesarean section,2014,31.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Equatorial Guinea,GQ,GNQ,226,C-section rate - percentage of deliveries by cesarean section,2011,6.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Eritrea,ER,ERI,232,C-section rate - percentage of deliveries by cesarean section,2002,2.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Eritrea,ER,ERI,232,C-section rate - percentage of deliveries by cesarean section,2010,2.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Swaziland,SZ,SWZ,748,C-section rate - percentage of deliveries by cesarean section,2007,7.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Swaziland,SZ,SWZ,748,C-section rate - percentage of deliveries by cesarean section,2010,12.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Swaziland,SZ,SWZ,748,C-section rate - percentage of deliveries by cesarean section,2014,11.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Swaziland,SZ,SWZ,748,C-section rate - percentage of deliveries by cesarean section,2022,16.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ethiopia,ET,ETH,231,C-section rate - percentage of deliveries by cesarean section,2000,0.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ethiopia,ET,ETH,231,C-section rate - percentage of deliveries by cesarean section,2005,1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ethiopia,ET,ETH,231,C-section rate - percentage of deliveries by cesarean section,2008,0.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ethiopia,ET,ETH,231,C-section rate - percentage of deliveries by cesarean section,2011,1.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ethiopia,ET,ETH,231,C-section rate - percentage of deliveries by cesarean section,2014,2.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ethiopia,ET,ETH,231,C-section rate - percentage of deliveries by cesarean section,2016,1.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Fiji,FJ,FJI,242,C-section rate - percentage of deliveries by cesarean section,2021,19.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Finland,FI,FIN,246,C-section rate - percentage of deliveries by cesarean section,2007,16,Total,Units,%,Reported,Free,End of fieldwork,Total
+France,FR,FRA,250,C-section rate - percentage of deliveries by cesarean section,2007,20.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Gabon,GA,GAB,266,C-section rate - percentage of deliveries by cesarean section,2001,5.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Gabon,GA,GAB,266,C-section rate - percentage of deliveries by cesarean section,2012,10,Total,Units,%,Reported,Free,End of fieldwork,Total
+Gabon,GA,GAB,266,C-section rate - percentage of deliveries by cesarean section,2021,8.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Gambia,GM,GMB,270,C-section rate - percentage of deliveries by cesarean section,2010,2.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Gambia,GM,GMB,270,C-section rate - percentage of deliveries by cesarean section,2013,2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Gambia,GM,GMB,270,C-section rate - percentage of deliveries by cesarean section,2018,3.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Gambia,GM,GMB,270,C-section rate - percentage of deliveries by cesarean section,2020,3.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Georgia,GE,GEO,268,C-section rate - percentage of deliveries by cesarean section,2000,6.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Georgia,GE,GEO,268,C-section rate - percentage of deliveries by cesarean section,2005,13,Total,Units,%,Reported,Free,End of fieldwork,Total
+Georgia,GE,GEO,268,C-section rate - percentage of deliveries by cesarean section,2009,28.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Georgia,GE,GEO,268,C-section rate - percentage of deliveries by cesarean section,2010,23.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Georgia,GE,GEO,268,C-section rate - percentage of deliveries by cesarean section,2011,35.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Georgia,GE,GEO,268,C-section rate - percentage of deliveries by cesarean section,2013,37.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Georgia,GE,GEO,268,C-section rate - percentage of deliveries by cesarean section,2014,39,Total,Units,%,Reported,Free,End of fieldwork,Total
+Georgia,GE,GEO,268,C-section rate - percentage of deliveries by cesarean section,2015,41.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Georgia,GE,GEO,268,C-section rate - percentage of deliveries by cesarean section,2017,44.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Georgia,GE,GEO,268,C-section rate - percentage of deliveries by cesarean section,2018,46.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Georgia,GE,GEO,268,C-section rate - percentage of deliveries by cesarean section,2019,39.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Georgia,GE,GEO,268,C-section rate - percentage of deliveries by cesarean section,2020,40.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Germany,DE,DEU,276,C-section rate - percentage of deliveries by cesarean section,2007,28.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ghana,GH,GHA,288,C-section rate - percentage of deliveries by cesarean section,2003,3.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ghana,GH,GHA,288,C-section rate - percentage of deliveries by cesarean section,2007,6.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ghana,GH,GHA,288,C-section rate - percentage of deliveries by cesarean section,2008,6.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ghana,GH,GHA,288,C-section rate - percentage of deliveries by cesarean section,2011,11.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ghana,GH,GHA,288,C-section rate - percentage of deliveries by cesarean section,2014,12.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ghana,GH,GHA,288,C-section rate - percentage of deliveries by cesarean section,2017,8.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ghana,GH,GHA,288,C-section rate - percentage of deliveries by cesarean section,2018,12.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ghana,GH,GHA,288,C-section rate - percentage of deliveries by cesarean section,2022,20.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guatemala,GT,GTM,320,C-section rate - percentage of deliveries by cesarean section,2002,11.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guatemala,GT,GTM,320,C-section rate - percentage of deliveries by cesarean section,2009,16.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guatemala,GT,GTM,320,C-section rate - percentage of deliveries by cesarean section,2015,26.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guinea,GN,GIN,324,C-section rate - percentage of deliveries by cesarean section,2005,1.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guinea,GN,GIN,324,C-section rate - percentage of deliveries by cesarean section,2008,2.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guinea,GN,GIN,324,C-section rate - percentage of deliveries by cesarean section,2012,2.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guinea,GN,GIN,324,C-section rate - percentage of deliveries by cesarean section,2016,3.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guinea,GN,GIN,324,C-section rate - percentage of deliveries by cesarean section,2018,2.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guinea-Bissau,GW,GNB,624,C-section rate - percentage of deliveries by cesarean section,2010,2.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guinea-Bissau,GW,GNB,624,C-section rate - percentage of deliveries by cesarean section,2014,3.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guinea-Bissau,GW,GNB,624,C-section rate - percentage of deliveries by cesarean section,2019,3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guyana,GY,GUY,328,C-section rate - percentage of deliveries by cesarean section,2009,13.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guyana,GY,GUY,328,C-section rate - percentage of deliveries by cesarean section,2014,16.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guyana,GY,GUY,328,C-section rate - percentage of deliveries by cesarean section,2020,21.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Haiti,HT,HTI,332,C-section rate - percentage of deliveries by cesarean section,2000,1.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Haiti,HT,HTI,332,C-section rate - percentage of deliveries by cesarean section,2006,3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Haiti,HT,HTI,332,C-section rate - percentage of deliveries by cesarean section,2012,5.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Haiti,HT,HTI,332,C-section rate - percentage of deliveries by cesarean section,2017,5.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Honduras,HN,HND,340,C-section rate - percentage of deliveries by cesarean section,2000,14.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Honduras,HN,HND,340,C-section rate - percentage of deliveries by cesarean section,2006,13,Total,Units,%,Reported,Free,End of fieldwork,Total
+Honduras,HN,HND,340,C-section rate - percentage of deliveries by cesarean section,2012,18.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Honduras,HN,HND,340,C-section rate - percentage of deliveries by cesarean section,2019,24.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Hungary,HU,HUN,348,C-section rate - percentage of deliveries by cesarean section,2007,30.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Iceland,IS,ISL,352,C-section rate - percentage of deliveries by cesarean section,2007,16.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+India,IN,IND,356,C-section rate - percentage of deliveries by cesarean section,2006,8.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+India,IN,IND,356,C-section rate - percentage of deliveries by cesarean section,2014,16.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+India,IN,IND,356,C-section rate - percentage of deliveries by cesarean section,2016,17.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+India,IN,IND,356,C-section rate - percentage of deliveries by cesarean section,2021,21.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Indonesia,ID,IDN,360,C-section rate - percentage of deliveries by cesarean section,2003,4.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Indonesia,ID,IDN,360,C-section rate - percentage of deliveries by cesarean section,2007,6.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Indonesia,ID,IDN,360,C-section rate - percentage of deliveries by cesarean section,2010,15.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Indonesia,ID,IDN,360,C-section rate - percentage of deliveries by cesarean section,2012,12.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Indonesia,ID,IDN,360,C-section rate - percentage of deliveries by cesarean section,2017,17,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Iran, Islamic Republic of",IR,IRN,364,C-section rate - percentage of deliveries by cesarean section,2005,40.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Iran, Islamic Republic of",IR,IRN,364,C-section rate - percentage of deliveries by cesarean section,2010,54.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Iraq,IQ,IRQ,368,C-section rate - percentage of deliveries by cesarean section,2006,20.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Iraq,IQ,IRQ,368,C-section rate - percentage of deliveries by cesarean section,2011,22.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Iraq,IQ,IRQ,368,C-section rate - percentage of deliveries by cesarean section,2018,33.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ireland,IE,IRL,372,C-section rate - percentage of deliveries by cesarean section,2007,24.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Italy,IT,ITA,380,C-section rate - percentage of deliveries by cesarean section,2007,39.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Jamaica,JM,JAM,388,C-section rate - percentage of deliveries by cesarean section,2009,14.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Jamaica,JM,JAM,388,C-section rate - percentage of deliveries by cesarean section,2011,21.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Jordan,JO,JOR,400,C-section rate - percentage of deliveries by cesarean section,2002,16,Total,Units,%,Reported,Free,End of fieldwork,Total
+Jordan,JO,JOR,400,C-section rate - percentage of deliveries by cesarean section,2007,18.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Jordan,JO,JOR,400,C-section rate - percentage of deliveries by cesarean section,2012,28,Total,Units,%,Reported,Free,End of fieldwork,Total
+Jordan,JO,JOR,400,C-section rate - percentage of deliveries by cesarean section,2018,25.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kazakhstan,KZ,KAZ,398,C-section rate - percentage of deliveries by cesarean section,2011,15.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kazakhstan,KZ,KAZ,398,C-section rate - percentage of deliveries by cesarean section,2013,15.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kazakhstan,KZ,KAZ,398,C-section rate - percentage of deliveries by cesarean section,2015,14.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kenya,KE,KEN,404,C-section rate - percentage of deliveries by cesarean section,2003,4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kenya,KE,KEN,404,C-section rate - percentage of deliveries by cesarean section,2009,6.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kenya,KE,KEN,404,C-section rate - percentage of deliveries by cesarean section,2014,8.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kiribati,KI,KIR,296,C-section rate - percentage of deliveries by cesarean section,2009,9.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kiribati,KI,KIR,296,C-section rate - percentage of deliveries by cesarean section,2019,9.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kyrgyzstan,KG,KGZ,417,C-section rate - percentage of deliveries by cesarean section,2012,5.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kyrgyzstan,KG,KGZ,417,C-section rate - percentage of deliveries by cesarean section,2014,7.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kyrgyzstan,KG,KGZ,417,C-section rate - percentage of deliveries by cesarean section,2018,8.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Lao People's Democratic Republic,LA,LAO,418,C-section rate - percentage of deliveries by cesarean section,2010,2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Lao People's Democratic Republic,LA,LAO,418,C-section rate - percentage of deliveries by cesarean section,2012,3.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Lao People's Democratic Republic,LA,LAO,418,C-section rate - percentage of deliveries by cesarean section,2017,5.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Lesotho,LS,LSO,426,C-section rate - percentage of deliveries by cesarean section,2005,5.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Lesotho,LS,LSO,426,C-section rate - percentage of deliveries by cesarean section,2009,6.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Lesotho,LS,LSO,426,C-section rate - percentage of deliveries by cesarean section,2014,9.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Liberia,LR,LBR,430,C-section rate - percentage of deliveries by cesarean section,2007,3.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Liberia,LR,LBR,430,C-section rate - percentage of deliveries by cesarean section,2013,3.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Liberia,LR,LBR,430,C-section rate - percentage of deliveries by cesarean section,2020,5.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Luxembourg,LU,LUX,442,C-section rate - percentage of deliveries by cesarean section,2007,29.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Madagascar,MG,MDG,450,C-section rate - percentage of deliveries by cesarean section,2004,1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Madagascar,MG,MDG,450,C-section rate - percentage of deliveries by cesarean section,2009,1.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Madagascar,MG,MDG,450,C-section rate - percentage of deliveries by cesarean section,2013,1.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Madagascar,MG,MDG,450,C-section rate - percentage of deliveries by cesarean section,2018,2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Madagascar,MG,MDG,450,C-section rate - percentage of deliveries by cesarean section,2021,2.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malawi,MW,MWI,454,C-section rate - percentage of deliveries by cesarean section,2000,2.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malawi,MW,MWI,454,C-section rate - percentage of deliveries by cesarean section,2005,3.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malawi,MW,MWI,454,C-section rate - percentage of deliveries by cesarean section,2010,4.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malawi,MW,MWI,454,C-section rate - percentage of deliveries by cesarean section,2014,5.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malawi,MW,MWI,454,C-section rate - percentage of deliveries by cesarean section,2016,6.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malawi,MW,MWI,454,C-section rate - percentage of deliveries by cesarean section,2020,7.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malaysia,MY,MYS,458,C-section rate - percentage of deliveries by cesarean section,2016,20.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malaysia,MY,MYS,458,C-section rate - percentage of deliveries by cesarean section,2022,26.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Maldives,MV,MDV,462,C-section rate - percentage of deliveries by cesarean section,2009,32.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Maldives,MV,MDV,462,C-section rate - percentage of deliveries by cesarean section,2017,40,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mali,ML,MLI,466,C-section rate - percentage of deliveries by cesarean section,2001,1.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mali,ML,MLI,466,C-section rate - percentage of deliveries by cesarean section,2006,1.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mali,ML,MLI,466,C-section rate - percentage of deliveries by cesarean section,2010,3.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mali,ML,MLI,466,C-section rate - percentage of deliveries by cesarean section,2013,2.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mali,ML,MLI,466,C-section rate - percentage of deliveries by cesarean section,2015,2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mali,ML,MLI,466,C-section rate - percentage of deliveries by cesarean section,2018,2.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,C-section rate - percentage of deliveries by cesarean section,2000,23.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,C-section rate - percentage of deliveries by cesarean section,2001,23.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,C-section rate - percentage of deliveries by cesarean section,2002,23.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,C-section rate - percentage of deliveries by cesarean section,2003,26,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,C-section rate - percentage of deliveries by cesarean section,2004,27.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,C-section rate - percentage of deliveries by cesarean section,2005,30.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,C-section rate - percentage of deliveries by cesarean section,2006,34.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,C-section rate - percentage of deliveries by cesarean section,2007,32.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,C-section rate - percentage of deliveries by cesarean section,2008,30.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,C-section rate - percentage of deliveries by cesarean section,2009,29,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,C-section rate - percentage of deliveries by cesarean section,2010,31.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,C-section rate - percentage of deliveries by cesarean section,2011,34,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,C-section rate - percentage of deliveries by cesarean section,2012,33.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,C-section rate - percentage of deliveries by cesarean section,2013,31.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,C-section rate - percentage of deliveries by cesarean section,2014,32,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,C-section rate - percentage of deliveries by cesarean section,2015,31,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,C-section rate - percentage of deliveries by cesarean section,2016,30.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,C-section rate - percentage of deliveries by cesarean section,2017,30.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,C-section rate - percentage of deliveries by cesarean section,2018,31.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,C-section rate - percentage of deliveries by cesarean section,2019,30.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,C-section rate - percentage of deliveries by cesarean section,2020,31.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Marshall Islands,MH,MHL,584,C-section rate - percentage of deliveries by cesarean section,2007,9.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mauritania,MR,MRT,478,C-section rate - percentage of deliveries by cesarean section,2001,3.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mauritania,MR,MRT,478,C-section rate - percentage of deliveries by cesarean section,2011,9.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mauritania,MR,MRT,478,C-section rate - percentage of deliveries by cesarean section,2015,4.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mauritania,MR,MRT,478,C-section rate - percentage of deliveries by cesarean section,2021,5.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mexico,MX,MEX,484,C-section rate - percentage of deliveries by cesarean section,2006,37.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mexico,MX,MEX,484,C-section rate - percentage of deliveries by cesarean section,2007,39.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mexico,MX,MEX,484,C-section rate - percentage of deliveries by cesarean section,2009,43.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mexico,MX,MEX,484,C-section rate - percentage of deliveries by cesarean section,2012,46.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mexico,MX,MEX,484,C-section rate - percentage of deliveries by cesarean section,2014,46.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mexico,MX,MEX,484,C-section rate - percentage of deliveries by cesarean section,2015,40.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Micronesia, Federated States of",FM,FSM,583,C-section rate - percentage of deliveries by cesarean section,2006,10.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mongolia,MN,MNG,496,C-section rate - percentage of deliveries by cesarean section,2008,17.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mongolia,MN,MNG,496,C-section rate - percentage of deliveries by cesarean section,2010,20.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mongolia,MN,MNG,496,C-section rate - percentage of deliveries by cesarean section,2014,23.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mongolia,MN,MNG,496,C-section rate - percentage of deliveries by cesarean section,2018,26.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Montenegro,ME,MNE,499,C-section rate - percentage of deliveries by cesarean section,2013,19.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Montenegro,ME,MNE,499,C-section rate - percentage of deliveries by cesarean section,2018,24.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Morocco,MA,MAR,504,C-section rate - percentage of deliveries by cesarean section,2004,5.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Morocco,MA,MAR,504,C-section rate - percentage of deliveries by cesarean section,2011,16,Total,Units,%,Reported,Free,End of fieldwork,Total
+Morocco,MA,MAR,504,C-section rate - percentage of deliveries by cesarean section,2018,21.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mozambique,MZ,MOZ,508,C-section rate - percentage of deliveries by cesarean section,2003,1.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mozambique,MZ,MOZ,508,C-section rate - percentage of deliveries by cesarean section,2011,3.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mozambique,MZ,MOZ,508,C-section rate - percentage of deliveries by cesarean section,2023,5.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Myanmar,MM,MMR,104,C-section rate - percentage of deliveries by cesarean section,2016,17.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Namibia,,NAM,516,C-section rate - percentage of deliveries by cesarean section,2007,12.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Namibia,,NAM,516,C-section rate - percentage of deliveries by cesarean section,2013,14.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nauru,NR,NRU,520,C-section rate - percentage of deliveries by cesarean section,2007,7.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nepal,NP,NPL,524,C-section rate - percentage of deliveries by cesarean section,2001,0.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nepal,NP,NPL,524,C-section rate - percentage of deliveries by cesarean section,2006,2.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nepal,NP,NPL,524,C-section rate - percentage of deliveries by cesarean section,2011,4.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nepal,NP,NPL,524,C-section rate - percentage of deliveries by cesarean section,2014,8.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nepal,NP,NPL,524,C-section rate - percentage of deliveries by cesarean section,2016,9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nepal,NP,NPL,524,C-section rate - percentage of deliveries by cesarean section,2019,15.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nepal,NP,NPL,524,C-section rate - percentage of deliveries by cesarean section,2022,18.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Netherlands,NL,NLD,528,C-section rate - percentage of deliveries by cesarean section,2007,14,Total,Units,%,Reported,Free,End of fieldwork,Total
+New Zealand,NZ,NZL,554,C-section rate - percentage of deliveries by cesarean section,2007,22.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nicaragua,NI,NIC,558,C-section rate - percentage of deliveries by cesarean section,2001,14.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nicaragua,NI,NIC,558,C-section rate - percentage of deliveries by cesarean section,2007,19.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nicaragua,NI,NIC,558,C-section rate - percentage of deliveries by cesarean section,2012,29.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Niger,NE,NER,562,C-section rate - percentage of deliveries by cesarean section,2006,1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Niger,NE,NER,562,C-section rate - percentage of deliveries by cesarean section,2012,1.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Niger,NE,NER,562,C-section rate - percentage of deliveries by cesarean section,2021,1.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nigeria,NG,NGA,566,C-section rate - percentage of deliveries by cesarean section,2003,1.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nigeria,NG,NGA,566,C-section rate - percentage of deliveries by cesarean section,2008,1.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nigeria,NG,NGA,566,C-section rate - percentage of deliveries by cesarean section,2011,4.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nigeria,NG,NGA,566,C-section rate - percentage of deliveries by cesarean section,2013,2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nigeria,NG,NGA,566,C-section rate - percentage of deliveries by cesarean section,2017,2.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nigeria,NG,NGA,566,C-section rate - percentage of deliveries by cesarean section,2018,2.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nigeria,NG,NGA,566,C-section rate - percentage of deliveries by cesarean section,2021,3.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,C-section rate - percentage of deliveries by cesarean section,2011,24.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,C-section rate - percentage of deliveries by cesarean section,2019,38.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Norway,NO,NOR,578,C-section rate - percentage of deliveries by cesarean section,2007,15.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Oman,OM,OMN,512,C-section rate - percentage of deliveries by cesarean section,2007,14.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Oman,OM,OMN,512,C-section rate - percentage of deliveries by cesarean section,2014,19.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Pakistan,PK,PAK,586,C-section rate - percentage of deliveries by cesarean section,2007,7.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Pakistan,PK,PAK,586,C-section rate - percentage of deliveries by cesarean section,2013,14.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Pakistan,PK,PAK,586,C-section rate - percentage of deliveries by cesarean section,2018,22.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Pakistan,PK,PAK,586,C-section rate - percentage of deliveries by cesarean section,2019,23.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Panama,PA,PAN,591,C-section rate - percentage of deliveries by cesarean section,2013,27.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Panama,PA,PAN,591,C-section rate - percentage of deliveries by cesarean section,2015,31.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Papua New Guinea,PG,PNG,598,C-section rate - percentage of deliveries by cesarean section,2018,3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Paraguay,PY,PRY,600,C-section rate - percentage of deliveries by cesarean section,2004,26.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Paraguay,PY,PRY,600,C-section rate - percentage of deliveries by cesarean section,2008,33.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Paraguay,PY,PRY,600,C-section rate - percentage of deliveries by cesarean section,2015,48.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Paraguay,PY,PRY,600,C-section rate - percentage of deliveries by cesarean section,2016,45.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Paraguay,PY,PRY,600,C-section rate - percentage of deliveries by cesarean section,2021,50.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,C-section rate - percentage of deliveries by cesarean section,2000,12.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,C-section rate - percentage of deliveries by cesarean section,2006,15.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,C-section rate - percentage of deliveries by cesarean section,2008,18.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,C-section rate - percentage of deliveries by cesarean section,2009,21.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,C-section rate - percentage of deliveries by cesarean section,2010,20.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,C-section rate - percentage of deliveries by cesarean section,2011,22.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,C-section rate - percentage of deliveries by cesarean section,2012,25.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,C-section rate - percentage of deliveries by cesarean section,2013,26.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,C-section rate - percentage of deliveries by cesarean section,2014,28.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,C-section rate - percentage of deliveries by cesarean section,2015,31.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,C-section rate - percentage of deliveries by cesarean section,2016,31.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,C-section rate - percentage of deliveries by cesarean section,2017,34.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,C-section rate - percentage of deliveries by cesarean section,2018,34.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,C-section rate - percentage of deliveries by cesarean section,2019,34.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,C-section rate - percentage of deliveries by cesarean section,2020,36.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Philippines,PH,PHL,608,C-section rate - percentage of deliveries by cesarean section,2003,7.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Philippines,PH,PHL,608,C-section rate - percentage of deliveries by cesarean section,2008,9.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Philippines,PH,PHL,608,C-section rate - percentage of deliveries by cesarean section,2011,11.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Philippines,PH,PHL,608,C-section rate - percentage of deliveries by cesarean section,2013,9.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Philippines,PH,PHL,608,C-section rate - percentage of deliveries by cesarean section,2017,12.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Philippines,PH,PHL,608,C-section rate - percentage of deliveries by cesarean section,2022,19.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Poland,PL,POL,616,C-section rate - percentage of deliveries by cesarean section,2007,20.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Portugal,PT,PRT,620,C-section rate - percentage of deliveries by cesarean section,2007,31.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Qatar,QA,QAT,634,C-section rate - percentage of deliveries by cesarean section,2012,19.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+South Korea,KR,KOR,410,C-section rate - percentage of deliveries by cesarean section,2007,32,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Moldova, Republic of",MD,MDA,498,C-section rate - percentage of deliveries by cesarean section,2005,8.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Moldova, Republic of",MD,MDA,498,C-section rate - percentage of deliveries by cesarean section,2012,16.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Romania,RO,ROU,642,C-section rate - percentage of deliveries by cesarean section,2004,19.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Romania,RO,ROU,642,C-section rate - percentage of deliveries by cesarean section,2013,34.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Russian Federation,RU,RUS,643,C-section rate - percentage of deliveries by cesarean section,2011,13,Total,Units,%,Reported,Free,End of fieldwork,Total
+Rwanda,RW,RWA,646,C-section rate - percentage of deliveries by cesarean section,2000,2.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Rwanda,RW,RWA,646,C-section rate - percentage of deliveries by cesarean section,2005,2.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Rwanda,RW,RWA,646,C-section rate - percentage of deliveries by cesarean section,2011,7.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Rwanda,RW,RWA,646,C-section rate - percentage of deliveries by cesarean section,2013,14.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Rwanda,RW,RWA,646,C-section rate - percentage of deliveries by cesarean section,2015,13,Total,Units,%,Reported,Free,End of fieldwork,Total
+Rwanda,RW,RWA,646,C-section rate - percentage of deliveries by cesarean section,2020,14.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Saint Lucia,LC,LCA,662,C-section rate - percentage of deliveries by cesarean section,2012,18.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Samoa,WS,WSM,882,C-section rate - percentage of deliveries by cesarean section,2009,12.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Samoa,WS,WSM,882,C-section rate - percentage of deliveries by cesarean section,2014,4.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Samoa,WS,WSM,882,C-section rate - percentage of deliveries by cesarean section,2020,8.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sao Tome and Principe,ST,STP,678,C-section rate - percentage of deliveries by cesarean section,2009,5.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sao Tome and Principe,ST,STP,678,C-section rate - percentage of deliveries by cesarean section,2014,5.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sao Tome and Principe,ST,STP,678,C-section rate - percentage of deliveries by cesarean section,2019,10.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Senegal,SN,SEN,686,C-section rate - percentage of deliveries by cesarean section,2005,3.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Senegal,SN,SEN,686,C-section rate - percentage of deliveries by cesarean section,2011,5.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Senegal,SN,SEN,686,C-section rate - percentage of deliveries by cesarean section,2013,3.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Senegal,SN,SEN,686,C-section rate - percentage of deliveries by cesarean section,2014,4.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Senegal,SN,SEN,686,C-section rate - percentage of deliveries by cesarean section,2015,4.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Senegal,SN,SEN,686,C-section rate - percentage of deliveries by cesarean section,2016,5.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Senegal,SN,SEN,686,C-section rate - percentage of deliveries by cesarean section,2017,4.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Senegal,SN,SEN,686,C-section rate - percentage of deliveries by cesarean section,2018,4.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Senegal,SN,SEN,686,C-section rate - percentage of deliveries by cesarean section,2019,6.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Serbia,RS,SRB,688,C-section rate - percentage of deliveries by cesarean section,2005,12,Total,Units,%,Reported,Free,End of fieldwork,Total
+Serbia,RS,SRB,688,C-section rate - percentage of deliveries by cesarean section,2008,19.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Serbia,RS,SRB,688,C-section rate - percentage of deliveries by cesarean section,2010,24.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Serbia,RS,SRB,688,C-section rate - percentage of deliveries by cesarean section,2014,28.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Serbia,RS,SRB,688,C-section rate - percentage of deliveries by cesarean section,2015,29.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Serbia,RS,SRB,688,C-section rate - percentage of deliveries by cesarean section,2018,33.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Serbia,RS,SRB,688,C-section rate - percentage of deliveries by cesarean section,2019,31.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sierra Leone,SL,SLE,694,C-section rate - percentage of deliveries by cesarean section,2008,1.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sierra Leone,SL,SLE,694,C-section rate - percentage of deliveries by cesarean section,2010,4.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sierra Leone,SL,SLE,694,C-section rate - percentage of deliveries by cesarean section,2013,2.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sierra Leone,SL,SLE,694,C-section rate - percentage of deliveries by cesarean section,2017,3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sierra Leone,SL,SLE,694,C-section rate - percentage of deliveries by cesarean section,2019,4.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Slovakia,SK,SVK,703,C-section rate - percentage of deliveries by cesarean section,2007,23.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Solomon Islands,SB,SLB,90,C-section rate - percentage of deliveries by cesarean section,2007,6.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Solomon Islands,SB,SLB,90,C-section rate - percentage of deliveries by cesarean section,2015,5.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Somalia,SO,SOM,706,C-section rate - percentage of deliveries by cesarean section,2019,1.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+South Africa,ZA,ZAF,710,C-section rate - percentage of deliveries by cesarean section,2004,20.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+South Africa,ZA,ZAF,710,C-section rate - percentage of deliveries by cesarean section,2016,26.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+South Sudan,SS,SSD,728,C-section rate - percentage of deliveries by cesarean section,2010,0.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Spain,ES,ESP,724,C-section rate - percentage of deliveries by cesarean section,2007,26,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sri Lanka,LK,LKA,144,C-section rate - percentage of deliveries by cesarean section,2007,23.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sri Lanka,LK,LKA,144,C-section rate - percentage of deliveries by cesarean section,2014,32.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Palestinian Territory, Occupied",PS,PSE,275,C-section rate - percentage of deliveries by cesarean section,2000,8.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Palestinian Territory, Occupied",PS,PSE,275,C-section rate - percentage of deliveries by cesarean section,2004,12.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Palestinian Territory, Occupied",PS,PSE,275,C-section rate - percentage of deliveries by cesarean section,2006,15,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Palestinian Territory, Occupied",PS,PSE,275,C-section rate - percentage of deliveries by cesarean section,2010,16.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Palestinian Territory, Occupied",PS,PSE,275,C-section rate - percentage of deliveries by cesarean section,2014,20.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Palestinian Territory, Occupied",PS,PSE,275,C-section rate - percentage of deliveries by cesarean section,2020,25.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sudan,SD,SDN,736,C-section rate - percentage of deliveries by cesarean section,2010,6.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sudan,SD,SDN,736,C-section rate - percentage of deliveries by cesarean section,2014,9.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Suriname,SR,SUR,740,C-section rate - percentage of deliveries by cesarean section,2010,19,Total,Units,%,Reported,Free,End of fieldwork,Total
+Suriname,SR,SUR,740,C-section rate - percentage of deliveries by cesarean section,2018,16.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Switzerland,CH,CHE,756,C-section rate - percentage of deliveries by cesarean section,2007,30,Total,Units,%,Reported,Free,End of fieldwork,Total
+Syrian Arab Republic,SY,SYR,760,C-section rate - percentage of deliveries by cesarean section,2009,26.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Tajikistan,TJ,TJK,762,C-section rate - percentage of deliveries by cesarean section,2012,4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Tajikistan,TJ,TJK,762,C-section rate - percentage of deliveries by cesarean section,2017,5.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Thailand,TH,THA,764,C-section rate - percentage of deliveries by cesarean section,2009,24.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Thailand,TH,THA,764,C-section rate - percentage of deliveries by cesarean section,2012,32,Total,Units,%,Reported,Free,End of fieldwork,Total
+Thailand,TH,THA,764,C-section rate - percentage of deliveries by cesarean section,2016,32.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Thailand,TH,THA,764,C-section rate - percentage of deliveries by cesarean section,2019,34.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Thailand,TH,THA,764,C-section rate - percentage of deliveries by cesarean section,2022,40.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Timor-Leste,TL,TLS,626,C-section rate - percentage of deliveries by cesarean section,2010,1.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Timor-Leste,TL,TLS,626,C-section rate - percentage of deliveries by cesarean section,2016,3.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Togo,TG,TGO,768,C-section rate - percentage of deliveries by cesarean section,2010,8.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Togo,TG,TGO,768,C-section rate - percentage of deliveries by cesarean section,2014,6.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Togo,TG,TGO,768,C-section rate - percentage of deliveries by cesarean section,2017,8.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Tonga,TO,TON,776,C-section rate - percentage of deliveries by cesarean section,2012,17.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Tonga,TO,TON,776,C-section rate - percentage of deliveries by cesarean section,2019,13.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Trinidad and Tobago,TT,TTO,780,C-section rate - percentage of deliveries by cesarean section,2011,22.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Tunisia,TN,TUN,788,C-section rate - percentage of deliveries by cesarean section,2000,18.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Tunisia,TN,TUN,788,C-section rate - percentage of deliveries by cesarean section,2006,20.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Tunisia,TN,TUN,788,C-section rate - percentage of deliveries by cesarean section,2012,26.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Tunisia,TN,TUN,788,C-section rate - percentage of deliveries by cesarean section,2018,43.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Turkmenistan,TM,TKM,795,C-section rate - percentage of deliveries by cesarean section,2000,3.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Turkmenistan,TM,TKM,795,C-section rate - percentage of deliveries by cesarean section,2016,6.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Turkmenistan,TM,TKM,795,C-section rate - percentage of deliveries by cesarean section,2019,7.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Turks and Caicos Islands,TC,TCA,796,C-section rate - percentage of deliveries by cesarean section,2020,55.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Tuvalu,TV,TUV,798,C-section rate - percentage of deliveries by cesarean section,2007,7.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Tuvalu,TV,TUV,798,C-section rate - percentage of deliveries by cesarean section,2020,20.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Turkey,TR,TUR,792,C-section rate - percentage of deliveries by cesarean section,2003,21.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Turkey,TR,TUR,792,C-section rate - percentage of deliveries by cesarean section,2007,36,Total,Units,%,Reported,Free,End of fieldwork,Total
+Turkey,TR,TUR,792,C-section rate - percentage of deliveries by cesarean section,2008,36.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Turkey,TR,TUR,792,C-section rate - percentage of deliveries by cesarean section,2014,48.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Turkey,TR,TUR,792,C-section rate - percentage of deliveries by cesarean section,2018,51.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uganda,UG,UGA,800,C-section rate - percentage of deliveries by cesarean section,2001,2.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uganda,UG,UGA,800,C-section rate - percentage of deliveries by cesarean section,2006,3.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uganda,UG,UGA,800,C-section rate - percentage of deliveries by cesarean section,2011,5.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uganda,UG,UGA,800,C-section rate - percentage of deliveries by cesarean section,2016,6.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ukraine,UA,UKR,804,C-section rate - percentage of deliveries by cesarean section,2007,10.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ukraine,UA,UKR,804,C-section rate - percentage of deliveries by cesarean section,2012,12.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+United Kingdom,GB,GBR,826,C-section rate - percentage of deliveries by cesarean section,2007,25.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,C-section rate - percentage of deliveries by cesarean section,2005,3.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,C-section rate - percentage of deliveries by cesarean section,2010,4.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,C-section rate - percentage of deliveries by cesarean section,2016,5.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,C-section rate - percentage of deliveries by cesarean section,2022,10.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+United States,US,USA,840,C-section rate - percentage of deliveries by cesarean section,2007,31.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uruguay,UY,URY,858,C-section rate - percentage of deliveries by cesarean section,2007,33.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uruguay,UY,URY,858,C-section rate - percentage of deliveries by cesarean section,2013,29.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uzbekistan,UZ,UZB,860,C-section rate - percentage of deliveries by cesarean section,2010,9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uzbekistan,UZ,UZB,860,C-section rate - percentage of deliveries by cesarean section,2011,9.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uzbekistan,UZ,UZB,860,C-section rate - percentage of deliveries by cesarean section,2012,10.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uzbekistan,UZ,UZB,860,C-section rate - percentage of deliveries by cesarean section,2013,11,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uzbekistan,UZ,UZB,860,C-section rate - percentage of deliveries by cesarean section,2014,12.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uzbekistan,UZ,UZB,860,C-section rate - percentage of deliveries by cesarean section,2015,13.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uzbekistan,UZ,UZB,860,C-section rate - percentage of deliveries by cesarean section,2016,14.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uzbekistan,UZ,UZB,860,C-section rate - percentage of deliveries by cesarean section,2017,15.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uzbekistan,UZ,UZB,860,C-section rate - percentage of deliveries by cesarean section,2018,17,Total,Units,%,Reported,Free,End of fieldwork,Total
+Vanuatu,VU,VUT,548,C-section rate - percentage of deliveries by cesarean section,2013,11.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,C-section rate - percentage of deliveries by cesarean section,2013,52.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Vietnam,VN,VNM,704,C-section rate - percentage of deliveries by cesarean section,2002,9.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Vietnam,VN,VNM,704,C-section rate - percentage of deliveries by cesarean section,2011,20,Total,Units,%,Reported,Free,End of fieldwork,Total
+Vietnam,VN,VNM,704,C-section rate - percentage of deliveries by cesarean section,2014,27.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Vietnam,VN,VNM,704,C-section rate - percentage of deliveries by cesarean section,2021,34.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Yemen,YE,YEM,887,C-section rate - percentage of deliveries by cesarean section,2003,8.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Yemen,YE,YEM,887,C-section rate - percentage of deliveries by cesarean section,2013,4.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Yemen,YE,YEM,887,C-section rate - percentage of deliveries by cesarean section,2023,10.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Zambia,ZM,ZMB,894,C-section rate - percentage of deliveries by cesarean section,2002,2.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Zambia,ZM,ZMB,894,C-section rate - percentage of deliveries by cesarean section,2007,3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Zambia,ZM,ZMB,894,C-section rate - percentage of deliveries by cesarean section,2014,4.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Zambia,ZM,ZMB,894,C-section rate - percentage of deliveries by cesarean section,2019,5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,C-section rate - percentage of deliveries by cesarean section,2006,4.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,C-section rate - percentage of deliveries by cesarean section,2011,4.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,C-section rate - percentage of deliveries by cesarean section,2014,6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,C-section rate - percentage of deliveries by cesarean section,2015,5.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,C-section rate - percentage of deliveries by cesarean section,2019,8.8,Total,Units,%,Reported,Free,End of fieldwork,Total
