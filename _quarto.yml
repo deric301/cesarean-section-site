@@ -9,10 +9,6 @@ website:
       - href: index_fixed.qmd
         text: Home
 
-  
-  page-navigation: true
-  site-url: https://deric301.github.io/unicef-quarto-dericbenpaul/
-
 format:
   html:
     theme: cosmo
