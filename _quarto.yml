@@ -6,7 +6,7 @@ website:
   title: "UNICEF_Report_on_C-Section_Births"
   navbar:
     left:
-      - href: index_fixed.qmd
+      - href: index_fixed.html
         text: Home
 
 format:
